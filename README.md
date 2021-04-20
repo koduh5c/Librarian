@@ -5,7 +5,9 @@
 <br />A Book is identified by its serial number, and store the title, author, genre, member currently, and rental history. Members are able to rent and return books, with only one member able to rent a book at any time.
 <br />Books are considered copies of each other if they have the same title and author (note that copies of a book all have different serial numbers).
 <br />Book collections can be read from and archived in a CSV (comma-separate values) file, stored in order of serial number in the following form:
-<br />[serial number] [title] [author] [genre]
+<br />
+<br />[serial number],[title],[author],[genre]
+<br />
 <br />Example:
 <br />111111,Catch 22,Joseph Heller,Comedy 
   
