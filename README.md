@@ -1,3 +1,7 @@
+## How to run
+<br />
+<br />java Library
+
 ## Info    
 <br />
 <br />Librarian stores collections of Member accounts and Book objects. Member accounts are identified by their member number, and store their name, the books they are currently renting, and their rental history.
