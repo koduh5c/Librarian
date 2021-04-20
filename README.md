@@ -1,9 +1,7 @@
 ## How to run
-<br />
 <br />java Library
 
 ## Info    
-<br />
 <br />Librarian stores collections of Member accounts and Book objects. Member accounts are identified by their member number, and store their name, the books they are currently renting, and their rental history.
 <br />Member accounts start at 100000 and increment up (such that the second Member account will have member number 100001).
 <br />A Book is identified by its serial number, and store the title, author, genre, member currently, and rental history. Members are able to rent and return books, with only one member able to rent a book at any time.
@@ -16,7 +14,6 @@
 <br />111111,Catch 22,Joseph Heller,Comedy 
   
 ## Commands
-<br />
 <br />Commands with [LONG] contain optional items that modify the functionality.<br />
 <br />EXIT ends the library process
 <br />COMMANDS outputs this help string
